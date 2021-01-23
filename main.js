@@ -1,5 +1,5 @@
 //Aula1: Introdução ao JS 
-//Criado esta pasta para separar o JS do HTML e lá na pasta index.html está linkado o que é feito aqui por:<script type="text/javascript" scr ="js/main.js"</script>
+
 //As variáveis são detectadas por tipo, exemplo: quando colocados "" é do tipo string
 var nome = "Karina Fukuda";
 //var numero inteiro 
